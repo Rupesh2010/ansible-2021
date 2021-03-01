@@ -1,0 +1,4 @@
+- name: Print Hello World
+  tasks:
+    - name: run echo command
+      command: /bin/echo hello world
